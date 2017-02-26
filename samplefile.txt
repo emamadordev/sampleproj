@@ -3,3 +3,5 @@ This is a sample text in a small file.
 Another sample line.
 
 third sample line.
+
+pull changed fourth line
